@@ -1,0 +1,227 @@
+# Copyright (C) 2014 Standout CSS3 Buttons
+# This file is distributed under the same license as the Standout CSS3 Buttons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Standout CSS3 Buttons 0.2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/standout-css3-buttons\n"
+"POT-Creation-Date: 2014-04-16 00:08:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: standout-css3-buttons.php:38
+msgid "Do not access this file directly."
+msgstr ""
+
+#: standout-css3-buttons.php:85
+msgid "You do not have sufficient permission to access this page"
+msgstr ""
+
+#: standout-css3-buttons.php:98 standout-css3-buttons.php:101
+msgid "Is plugin enabled? Uncheck this to turn it off temporarily."
+msgstr ""
+
+#: standout-css3-buttons.php:98
+msgid "Plugin enabled?"
+msgstr ""
+
+#: standout-css3-buttons.php:102
+msgid "Select the style you would like to use as the default."
+msgstr ""
+
+#: standout-css3-buttons.php:102
+msgid "Default style"
+msgstr ""
+
+#: standout-css3-buttons.php:111
+msgid ""
+"Select the style you would like to use as the default if no style is "
+"otherwise specified."
+msgstr ""
+
+#: standout-css3-buttons.php:113
+msgid ""
+"Enter default URL to use for buttons, if you do not pass one to the plugin "
+"via shortcode or function."
+msgstr ""
+
+#: standout-css3-buttons.php:113
+msgid "Default button URL"
+msgstr ""
+
+#: standout-css3-buttons.php:116
+msgid ""
+"Enter default URL to use for buttons. This URL will be used if you do not "
+"override it at the shortcode level."
+msgstr ""
+
+#: standout-css3-buttons.php:117
+msgid "Check this box to add rel=nofollow to button links."
+msgstr ""
+
+#: standout-css3-buttons.php:117
+msgid "Nofollow button link?"
+msgstr ""
+
+#: standout-css3-buttons.php:120
+msgid ""
+"Check this box to add rel=\"nofollow\" to button links. You can override "
+"this at the shortcode level."
+msgstr ""
+
+#: standout-css3-buttons.php:121
+msgid "Check this box to open links in a new window."
+msgstr ""
+
+#: standout-css3-buttons.php:121
+msgid "Open links in new window?"
+msgstr ""
+
+#: standout-css3-buttons.php:124
+msgid ""
+"Check this box to open links in a new window. You can override this at the "
+"shortcode level."
+msgstr ""
+
+#: standout-css3-buttons.php:125
+msgid "Enter custom CSS"
+msgstr ""
+
+#: standout-css3-buttons.php:128
+msgid ""
+"If you use your own custom class names, enter the CSS here. Use the custom "
+"class name (minus the \"scss3b-button-\" prefix) in the shortcode or when "
+"calling the function in PHP."
+msgstr ""
+
+#: standout-css3-buttons.php:140
+msgid "The name of the parameter"
+msgstr ""
+
+#: standout-css3-buttons.php:140
+msgid "Parameter Name"
+msgstr ""
+
+#: standout-css3-buttons.php:141
+msgid "Is this parameter required?"
+msgstr ""
+
+#: standout-css3-buttons.php:141
+msgid "Is Required?"
+msgstr ""
+
+#: standout-css3-buttons.php:142
+msgid "What data type this parameter accepts"
+msgstr ""
+
+#: standout-css3-buttons.php:142
+msgid "Data Type"
+msgstr ""
+
+#: standout-css3-buttons.php:143
+msgid "What, if any, is the default if no value is specified"
+msgstr ""
+
+#: standout-css3-buttons.php:143
+msgid "Default Value"
+msgstr ""
+
+#: standout-css3-buttons.php:156
+msgid "Yes"
+msgstr ""
+
+#: standout-css3-buttons.php:159
+msgid "No"
+msgstr ""
+
+#: standout-css3-buttons.php:166
+msgid "true"
+msgstr ""
+
+#: standout-css3-buttons.php:169
+msgid "false"
+msgstr ""
+
+#: standout-css3-buttons.php:172
+msgid "this value is blank by default"
+msgstr ""
+
+#: standout-css3-buttons.php:185 standout-css3-buttons.php:369
+msgid "Documentation"
+msgstr ""
+
+#: standout-css3-buttons.php:186 standout-css3-buttons.php:370
+msgid "FAQ"
+msgstr ""
+
+#: standout-css3-buttons.php:187
+msgid "If you like this plugin, please "
+msgstr ""
+
+#: standout-css3-buttons.php:189
+msgid "rate it on WordPress.org"
+msgstr ""
+
+#: standout-css3-buttons.php:191
+msgid "and click the "
+msgstr ""
+
+#: standout-css3-buttons.php:193
+msgid "Works"
+msgstr ""
+
+#: standout-css3-buttons.php:195
+msgid "button. For support please visit the "
+msgstr ""
+
+#: standout-css3-buttons.php:197
+msgid "forums"
+msgstr ""
+
+#: standout-css3-buttons.php:247 standout-css3-buttons.php:253
+#: standout-css3-buttons.php:308
+msgid ""
+"plugin is disabled. Either you did not pass a necessary setting to the "
+"plugin, or did not configure a default. Check Settings page."
+msgstr ""
+
+#: standout-css3-buttons.php:330
+msgid "is currently disabled."
+msgstr ""
+
+#: standout-css3-buttons.php:333
+msgid "Please confirm the default CSS style and URL and click \"Save\"."
+msgstr ""
+
+#: standout-css3-buttons.php:356
+msgid "Settings"
+msgstr ""
+
+#: standout-css3-buttons.php:368
+msgid "Support"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Standout CSS3 Buttons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jimmyscode.com/wordpress/standout-css3-buttons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Display CSS3 style buttons with gradient color styles on your website using "
+"popular social media colors."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jimmy Pe&ntilde;a"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jimmyscode.com/"
+msgstr ""

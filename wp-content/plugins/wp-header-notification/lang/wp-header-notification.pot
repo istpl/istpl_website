@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Header Notification\n"
+"POT-Creation-Date: 2014-03-29 15:48+0800\n"
+"PO-Revision-Date: 2014-03-29 15:48+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:4
+msgid "Hi! Thanks for using WP Header Notification by Arefly!"
+msgstr ""
+
+#: options.php:5
+msgid "See This Plguin Now!"
+msgstr ""
+
+#: options.php:7 options.php:51
+msgid "Close"
+msgstr ""
+
+#: options.php:19 options.php:42
+msgid "WP Header Notification Options Page"
+msgstr ""
+
+#: options.php:19
+msgid "WP Header Notification"
+msgstr ""
+
+#: options.php:45
+msgid "General Options"
+msgstr ""
+
+#: options.php:46
+#, php-format
+msgid "You can use %s to get WP Header Notification too!"
+msgstr ""
+
+#: options.php:49
+msgid "Open Header Notification?"
+msgstr ""
+
+#: options.php:51
+msgid "Open"
+msgstr ""
+
+#: options.php:55
+msgid "Notification's Content: "
+msgstr ""
+
+#: options.php:61
+msgid "Read Now Button's Value: "
+msgstr ""
+
+#: options.php:67
+msgid "Link Read Now Button To: "
+msgstr ""
+
+#: options.php:73
+msgid "Close Button's Value: "
+msgstr ""
+
+#: options.php:79
+msgid "Notice again for: "
+msgstr ""
+
+#: options.php:81
+msgid "MM DD"
+msgstr ""
+
+#: options.php:82
+msgid "Use format of MM DD"
+msgstr ""
+
+#: wp-header-notification.php:48
+msgid "Settings"
+msgstr ""
